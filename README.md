@@ -2,7 +2,7 @@
 
 - [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate).
 - [electron-react-markdown-editor)](hhttps://github.com/uraway/electron-react-markdown-editor).  
-electron-react-boilerplateを使用して上記MarkDown Editor を作成
+- electron-react-boilerplateを使用して上記MarkDown Editor を作成中
 
 ## Setup
 
